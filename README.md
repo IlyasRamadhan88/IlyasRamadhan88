@@ -1,14 +1,8 @@
-# Halo semua! 
+# Hello everyone! 
 
-Perkenalkan nama saya **Ramadhan Ilyas Nur Felim**.<br>
+My name is **Ramadhan Ilyas Nur Felim** you can call me **Ilyas**.<br>
 
-Saya seorang **Network Engineering and AI Enthusiast** di [Dicoding](https://www.dicoding.com/).<br>
-
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
-
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ilyasrmdhn/)ku ya.
+[Linkedin](https://www.linkedin.com/in/ilyasrmdhn/)ku ya.
 
 ### GitHub Statistic
 <p align="left">
