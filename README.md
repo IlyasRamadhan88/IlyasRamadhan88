@@ -2,7 +2,7 @@
 
 My name is **Ramadhan Ilyas Nur Felim** you can call me **Ilyas**.<br>
 
-[Linkedin](https://www.linkedin.com/in/ilyasrmdhn/)ku ya.
+My [Linkedin](https://www.linkedin.com/in/ilyasrmdhn/)
 
 ### GitHub Statistic
 <p align="left">
